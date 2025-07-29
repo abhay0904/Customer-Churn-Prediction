@@ -24,8 +24,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Durvankur-Rasal/ANN-churn-classification.git
-   cd ANN-churn-classification
+   git clone https://github.com/abhay0904/Customer-Churn-Prediction.git
+   cd Customer-Churn-Prediction
    ```
 2. Install dependencies:
    ```sh
